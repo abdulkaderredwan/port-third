@@ -26,11 +26,14 @@ h2{
     background-image: url(../images/top-banner.png);
     background-repeat: no-repeat;
 }
+.first-sec-p{
+    margin-bottom: 30px;
+}
 .anchor-button{
     color: white;
     background-image: linear-gradient(#FF9671, #FF694C);
     font-weight: 700;
-    border-radius: 10px;
+    border-radius: 5px;
     padding: 10px 40px;
     text-decoration: none;
 }
@@ -41,14 +44,22 @@ h2{
 }
 .second-sec-p{
     padding-right: 150px;
+    margin-bottom: 30px;
+}
+.final-section{
+    background-image: url(../images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.final-section h1{
+    padding-left: 7%;
 }
 .skill-item{
     width: 40%;
-    border-radius: 50px;
-    margin-left: 5%;
-    margin-right: 5%;
+    border-radius: 0px 10px 10px 0px;
+    margin: 0% 5% 0% 5%;
     box-shadow: 10px 10px 50px gray;
-    padding: 0px 10px 15px 30px;
+    padding: 0px 10px 15px 40px;
 }
 #first-iteam{
     border-left: 10px solid;
