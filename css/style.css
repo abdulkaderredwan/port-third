@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 .org{
     color: orange;
@@ -7,9 +8,37 @@ body{
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 35px;
+}
 .half-width{
     width: 50%;
+    padding-left: 7%;
+}
+.half-width img{
+    width: 80%;
 }
 .flexible-container{
     display: flex;
+    margin-bottom: 150px;
+}
+.first-sec{
+    background-image: url(../images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.anchor-button{
+    color: white;
+    background-image: linear-gradient(#FF9671, #FF694C);
+    font-weight: 700;
+    border-radius: 10px;
+    padding: 10px 40px;
+    text-decoration: none;
+}
+.second-sec{
+    background-image: url(../images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.second-sec-p{
+    padding-right: 150px;
 }
