@@ -42,3 +42,21 @@ h2{
 .second-sec-p{
     padding-right: 150px;
 }
+.skill-item{
+    width: 40%;
+    border-radius: 50px;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 50px gray;
+    padding: 0px 10px 15px 30px;
+}
+#first-iteam{
+    border-left: 10px solid;
+    border-image: linear-gradient(#FF9C34, #FFCC1A);
+    border-image-slice: 1;
+}
+#second-iteam{
+    border-left: 10px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
