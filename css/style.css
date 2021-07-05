@@ -60,3 +60,12 @@ h2{
     border-image: linear-gradient(blue, cyan);
     border-image-slice: 1;
 }
+footer p{
+    color: dimgray;
+    text-align: center;
+}
+#anchor-port{
+    color: dimgray;
+    text-decoration: none;
+    font-weight: 700;
+}
