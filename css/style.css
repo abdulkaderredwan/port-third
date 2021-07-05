@@ -1,3 +1,15 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.org{
+    color: orange;
+}
+h1{
+    font-size: 50px;
+}
+.half-width{
+    width: 50%;
+}
+.flexible-container{
+    display: flex;
+}
