@@ -57,7 +57,7 @@ h2{
 .skill-item{
     width: 40%;
     border-radius: 0px 10px 10px 0px;
-    margin: 0% 5% 0% 5%;
+    margin: 10px 100px;
     box-shadow: 10px 10px 50px gray;
     padding: 0px 10px 15px 40px;
 }
